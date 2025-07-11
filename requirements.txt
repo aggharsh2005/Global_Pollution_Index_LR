@@ -1,0 +1,6 @@
+This file lists all the Python libraries that are necessary to run your project.
+
+numpy
+pandas
+matplotlib
+scikit-learn
